@@ -1,0 +1,25 @@
+/*include your header file belo this*/
+
+
+void print_hi()
+{
+    printf("hi welcome\n");
+}
+
+int random(int how_many_numbers,int no_to_keep_track_of)
+{
+    int num;
+    int counter = 0;
+    while (counter < how_many_numbers)
+    {
+        num = rand() % 11; //range (0 <= num < 11)
+        counter++;
+        printf("%i\n", num)
+		
+          arr(numbers)=[]
+         * if(arr[i] == no_to_keep_track_of) increase a counter
+         * printer out value of counter
+         */
+    }
+    return (0);
+}
